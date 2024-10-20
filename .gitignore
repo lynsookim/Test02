@@ -1,0 +1,17 @@
+# 빌드 산출물 및 중간 파일 무시
+*.exe
+*.dll
+*.lib
+*.obj
+*.pdb
+# 빌드 폴더 무시
+ARM64/
+Project1/ARM64/
+Debug/
+Release/
+# 사용자 환경 파일 무시
+*.user
+# Visual Studio 설정 폴더 무시
+.vs/
+# 로그 파일 무시
+*.log
